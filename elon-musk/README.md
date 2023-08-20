@@ -10,6 +10,6 @@ ___
 - To proceed to the next page click "Fly to Mars" button
 
 ---
-- hey what's up Artem? How it's going on? How is your parents on *8 of Magist* (ex 1 of Ma*) street? Haven't seen you ~ *5+ years;
+- hey what's up Artem? How it's going on? How are your parents on *8 of Magist* (ex 1 of Ma*) street? Haven't seen you ~ *5+ years;
 - how is your brother? Don't remember his name;
 - how is your progress about HTML/css scripting?

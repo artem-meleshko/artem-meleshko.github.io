@@ -8,3 +8,8 @@ ___
 ## Site navigation
 - To navigate the main page of the site - use "Mr.Musk", "Companies", "Wikipedia", "Fly to Mars"
 - To proceed to the next page click "Fly to Mars" button
+
+---
+- hey what's up Artem? How it's going on? How is your parent's on *8 of 1 May (Magistratska) street? Haven't seen you ~ 25+ years.
+- how is your brother? Sorry, I don't remember his name.
+- How is your progress about HTML/css scripting?
